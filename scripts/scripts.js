@@ -496,7 +496,7 @@ async function loadEager(doc) {
   } catch (e) {
     // do nothing
   }
-,
+
 
 /**
  * Loads everything that doesn't need to be delayed.
