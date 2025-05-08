@@ -453,7 +453,6 @@ async function loadEager(doc) {
       minXOffset: 0,
       minYOffset: 0,
     },
-    ,
     _experienceplatform: {
       identification:{
         core:{
