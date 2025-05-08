@@ -1,0 +1,9 @@
+.offerText, .offerCTA, .offerImage{
+    color: #14161A;
+    font-size: 30px;
+    padding: 0 0 24px;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+    text-align: center;
+}
